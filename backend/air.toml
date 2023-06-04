@@ -1,0 +1,4 @@
+root = "."
+tmp_dir = "backend"
+build_cmd = "go build -o main"
+run_cmd = "main"
